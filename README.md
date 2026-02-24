@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:000000,100:00ff88&text=Network%20%7C%20Security&fontSize=45&fontColor=ffffff&fontAlign=50&fontAlignY=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Cybersecurity%20%7C%20Linux%20%7C%20Networking&fontSize=40&fontAlign=50&fontAlignY=50&fontColor=ffffff" />
 </div>
 
 # 👋 Hi, I'm Mostafa
