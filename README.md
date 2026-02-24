@@ -68,6 +68,14 @@ I’m particularly interested in:
 
 ---
 
+## 📚 Currently Learning
+
+- Advanced Linux Internals
+- Network Protocol Analysis
+- Threat Detection & Response
+- Secure Infrastructure Design
+
+---
 
 ## 📫 Connect
 
