@@ -27,8 +27,6 @@ My main areas of interest include:
 
 ## 🌱 Current Focus
 
-## 🔐 Linux Networking & Security
-
 ![Linux](https://img.shields.io/badge/Linux-23272E?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-0F94D2?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash_Scripting-121011?style=for-the-badge&logo=gnubash&logoColor=white)
@@ -43,8 +41,11 @@ My main areas of interest include:
 ![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?style=for-the-badge&logo=openssl&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![SIEM](https://img.shields.io/badge/SIEM-4B0082?style=for-the-badge)
+![Snort](https://img.shields.io/badge/Snort-F80000?style=for-the-badge)
+![Suricata](https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge)
+![Firewall](https://img.shields.io/badge/Firewall-FF0000?style=for-the-badge)
 
 ---
 
