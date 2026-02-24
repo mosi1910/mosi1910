@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hi, I'm Mostafa
 
-<!--
-**mosi1910/mosi1910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 About Me
 
-Here are some ideas to get you started:
+I'm currently pursuing a Master's degree with a strong focus on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Linux Systems
+* Networking
+* Cybersecurity
+
+I'm particularly interested in how secure and reliable infrastructure is designed, deployed, and maintained.
+
+---
+
+## 🔍 Technical Interests
+
+My main areas of interest include:
+
+* Linux system administration & internals
+* Network architecture & protocols
+* System and network security
+* Infrastructure hardening
+* Secure system design
+* Monitoring & reliability
+
+---
+
+## 🌱 Current Focus
+
+* Deepening Linux knowledge
+* Understanding real-world networking environments
+* Learning practical security principles
+
+---
+
+
+## 📫 Connect
+
+* GitHub: [github.com/mosi1910](https://github.com/mosi1910)
+* LinkedIn: [linkedin.com/in/mosi1910](www.linkedin.com/in/mostafa-khoshsiyar-683150158)
+* Email: m.khoshsiyar.1382.mk@gmail.com
