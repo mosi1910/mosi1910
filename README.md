@@ -1,4 +1,4 @@
-[![Typing SVG]([https://readme-typing-svg.herokuapp.com?size=28&color=00FFAA&center=true&vCenter=true&width=800&lines=Linux+%7C+Networking+%7C+Security;Open+Source+Enthusiast;Arch+Linux+User](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Network%20|%20Security&reversal=true&textBg=true&fontAlign=50))](https://git.io/typing-svg)
+![header]([https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Linux%20%7C%20Security%20Engineer&fontSize=40&fontColor=ffffff](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Network%20|%20Security&reversal=true&textBg=true&fontAlign=50))
 
 # 👋 Hi, I'm Mostafa
 
