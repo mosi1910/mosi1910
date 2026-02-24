@@ -62,9 +62,6 @@ I’m particularly interested in:
 ![UFW](https://img.shields.io/badge/UFW-F47421?style=for-the-badge)
 ![Fail2Ban](https://img.shields.io/badge/Fail2Ban-000000?style=for-the-badge)
 ![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?style=for-the-badge&logo=openssl&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Snort](https://img.shields.io/badge/Snort-F80000?style=for-the-badge)
 ![Suricata](https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge)
 
@@ -77,14 +74,16 @@ I’m particularly interested in:
 - 🔐 Linux Hardening Lab (SSH, UFW, Fail2Ban configuration)
 - 🌐 Network Traffic Analysis with Wireshark
 - 🛡 Firewall Rules Design with iptables
-- 📊 Log Monitoring & SIEM Practice Environment
+- 📊 Log Monitoring & SIEM Practice Environment (Snort, Suricata)
 - 🐳 Secure Dockerized Service Deployment
+- 🧪 Pentesting Experiments (Metasploit, Burp Suite, Kali Linux)
 
 ---
 
 
 ## 📚 Currently Learning
 
+> Always learning and experimenting with:
 - Advanced Linux Internals
 - Network Protocol Analysis
 - Threat Detection & Response
