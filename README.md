@@ -2,6 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=rounded&height=240&color=0:000000,100:00ff88&text=Cybersecurity%20%7C%20Linux%20%7C%20Networking&fontSize=38&fontAlign=50&fontAlignY=50&fontColor=ffffff" />
 </div>
 
+<p align="center">
+  <em>Security is a process, not a product.</em>
+</p>
+
 <h1 align="center">👋 Hi, I'm Mostafa</h1>
 
 <p align="center">
@@ -12,7 +16,9 @@ Master's Student | Linux & Network Security Enthusiast
 
 ## 🎓 About Me
 
-I'm pursuing a Master's degree focused on building secure, reliable, and hardened infrastructure.
+I'm a Master's student specializing in secure infrastructure, Linux systems, and network security.
+
+I focus on designing, hardening, and monitoring reliable systems with security-first principles.
 
 I’m particularly interested in:
 
@@ -43,7 +49,6 @@ I’m particularly interested in:
 ![TCP/IP](https://img.shields.io/badge/TCP/IP-1F425F?style=for-the-badge)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge)
-![Firewall](https://img.shields.io/badge/Firewall-FF0000?style=for-the-badge)
 
 </div>
 
@@ -60,13 +65,23 @@ I’m particularly interested in:
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![SIEM](https://img.shields.io/badge/SIEM-4B0082?style=for-the-badge)
 ![Snort](https://img.shields.io/badge/Snort-F80000?style=for-the-badge)
 ![Suricata](https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge)
 
 </div>
 
 ---
+
+## 🧪 Security Labs & Projects
+
+- 🔐 Linux Hardening Lab (SSH, UFW, Fail2Ban configuration)
+- 🌐 Network Traffic Analysis with Wireshark
+- 🛡 Firewall Rules Design with iptables
+- 📊 Log Monitoring & SIEM Practice Environment
+- 🐳 Secure Dockerized Service Deployment
+
+---
+
 
 ## 📚 Currently Learning
 
