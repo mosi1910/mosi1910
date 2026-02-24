@@ -1,4 +1,4 @@
-https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Network%20|%20Security&reversal=true&textBg=true
+[![Typing SVG]([https://readme-typing-svg.herokuapp.com?size=28&color=00FFAA&center=true&vCenter=true&width=800&lines=Linux+%7C+Networking+%7C+Security;Open+Source+Enthusiast;Arch+Linux+User](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Network%20|%20Security&reversal=true&textBg=true&fontAlign=50))](https://git.io/typing-svg)
 
 # 👋 Hi, I'm Mostafa
 
