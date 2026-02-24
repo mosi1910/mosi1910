@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Network%20|%20Security&reversal=true&textBg=true&fontAlign=50)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:000000,100:00ff88&text=Network%20%7C%20Security&fontSize=45&fontColor=ffffff&fontAlign=50&fontAlignY=50" />
+</div>
 
 # 👋 Hi, I'm Mostafa
 
