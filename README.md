@@ -37,5 +37,5 @@ My main areas of interest include:
 ## 📫 Connect
 
 * GitHub: [github.com/mosi1910](https://github.com/mosi1910)
-* LinkedIn: [linkedin.com/in/mosi1910](www.linkedin.com/in/mostafa-khoshsiyar-683150158)
+* LinkedIn: [linkedin.com/in/mostafa-khoshsiyar-683150158](www.linkedin.com/in/mostafa-khoshsiyar-683150158)
 * Email: m.khoshsiyar.1382.mk@gmail.com
