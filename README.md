@@ -1,4 +1,4 @@
-![header]([https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Linux%20%7C%20Security%20Engineer&fontSize=40&fontColor=ffffff](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Network%20|%20Security&reversal=true&textBg=true&fontAlign=50))
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Network%20|%20Security&reversal=true&textBg=true&fontAlign=50)
 
 # 👋 Hi, I'm Mostafa
 
